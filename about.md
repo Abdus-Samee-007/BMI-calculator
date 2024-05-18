@@ -1,5 +1,5 @@
 
-**Body Mass Index (BMI)** is essentially a value obtained from the weight and height of a person [1].
+**Body Mass Index (BMI)** is essentially a value obtained from the weight and height of a person .
 
 BMI can be computed by dividing the person's weight (kg) by their squared height (m) as follows:
 
