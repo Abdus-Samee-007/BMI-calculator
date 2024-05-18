@@ -1,6 +1,7 @@
 ## BMI Calculator - R project
 
 This is a R prograamming application that calculates Body Mass Index (BMI).
+This calculator provides valuable insights into health assessment and intervention strategies. The web application being mobile friendly also helps in the wide range of implementations. By understanding and addressing its limitations, we can pave the way for personalized healthcare and improved population health outcomes.
 
 ### Using the Calculator
 
@@ -9,3 +10,6 @@ Please refer to chart.png for the BMI table.
 
 ### Setup Details
 This application was developed in R studio and the packages used are "shiny" and "shiny themes" packages which are required to run the application.
+
+
+
