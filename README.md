@@ -11,7 +11,5 @@ Please refer to chart.png for the BMI table.
 ### Setup Details
 This application was developed in R studio and the packages used are "shiny" and "shiny themes" which are required to run the application.
 
-This was created by me for a small college project.
-
 
 
