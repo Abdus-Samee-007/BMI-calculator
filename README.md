@@ -9,7 +9,7 @@ Enter your weight and height by adjusting the sliders along the scales and click
 Please refer to chart.png for the BMI table.
 
 ### Setup Details
-This application was developed in R studio and the packages used are "shiny" and "shiny themes" packages which are required to run the application.
+This application was developed in R studio and the packages used are "shiny" and "shiny themes" which are required to run the application.
 
 
 
