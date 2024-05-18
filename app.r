@@ -3,7 +3,7 @@ library(shinythemes)
 
 
 
-ui <- fluidPage(theme = shinytheme("united"),
+ui <- fluidPage(theme = shinytheme("cyborg"),
                 navbarPage("BMI Calculator:",
                            
                            tabPanel("Home",
@@ -22,7 +22,7 @@ ui <- fluidPage(theme = shinytheme("united"),
                                                   max = 100),
                                       
                                       actionButton("submitbutton", 
-                                                   "Submit", 
+                                                   "Calculate", 
                                                    class = "btn btn-primary")
                                     ),
                                     
@@ -56,7 +56,7 @@ server <- function(input, output, session) {
   
   output$contents <- renderPrint({
     if (input$submitbutton>0) { 
-      isolate("Calculation complete.") 
+      isolate("BMI Calculation is complete.") 
     } else {
       return("Server is ready for calculation.")
     }
